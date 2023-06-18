@@ -1,3 +1,3 @@
 # ADAS
-Practice codes for Autonomous Driving implementation on Raspberry Pi
+Practice codes for Computer Vision implementation on Raspberry Pi
 
